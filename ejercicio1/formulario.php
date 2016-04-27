@@ -115,3 +115,9 @@ if ($_POST) {
         echo "Comentarios: " .$comentario. "<br/>";
     }
 }
+
+?>
+<html>
+    
+    <a href=./formulario.html> Volver al formulario</a>             
+</html>
