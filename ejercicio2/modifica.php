@@ -39,7 +39,7 @@ if($result->num_rows==0){
     $Ocupacion =$extraido['Ocupacion'];
     $Comentario =$extraido['Comentario'];
     $Fecha =$extraido['Fecha'];
-
+//Comprobar si son iguales
 //   echo $dni2."=".$dni;
 //   echo "<br>";
 //   echo $Nombre2."=".$Nombre;
